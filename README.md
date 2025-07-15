@@ -12,6 +12,6 @@ Clone the repo and pick a challenge to solve! Each one comes with a clear goal a
 
 ```bash
 git clone https://github.com/your-username/syntax-logic-challenges.git
-'''
+```
 
 Happy coding! 💻✨
