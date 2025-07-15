@@ -11,6 +11,7 @@ A collection of short and simple challenges designed to sharpen your programming
 Clone the repo and pick a challenge to solve! Each one comes with a clear goal and expected behavior.
 
 ```bash
-git clone https://github.com/your-username/syntax-logic-challenges.git'''
+git clone https://github.com/your-username/syntax-logic-challenges.git
+'''
 
 Happy coding! 💻✨
